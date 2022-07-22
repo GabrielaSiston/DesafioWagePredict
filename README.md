@@ -19,11 +19,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 - [Jupyter Notebook](https://jupyter.org/)
 
 Para instalar as dependềncias faça:
+
 ``` pip3 install requirements.txt ```
 
 
 ### Rodando o arquivo ipynb 
-Acesse o terminal e execute "Jupyter Notebook", após selecione o nome do arquivo "Desafio_predict"
+Acesse o terminal e execute "Jupyter Notebook", após selecione o nome do arquivo "Desafio_predict.ipynb"
 
 Em seguida selecione a opção "Kernel" no cabeçalho do notebook, ao abrir o menu "Kernel" selecione a opção "Restart & Run All"
 
