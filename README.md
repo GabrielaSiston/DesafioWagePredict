@@ -9,9 +9,11 @@ Modelo de predição
  
 Tratando os dados e Criando os conjuntos de treino e validação
 
-Modeling
-Algorithm Tuning
-Finalizing the Model
+Treinamento do Modelo usando KFold para divisão dos conjuntos de Treino e Validação
+
+Tratamento do Conjunto de Testes
+
+Predição do Conjunto de Testes
 
 ## Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina: 
