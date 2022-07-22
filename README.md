@@ -23,7 +23,7 @@ Para instalar as dependềncias faça:
 
 
 ### Rodando o arquivo ipynb 
-Acesse o terminal e execute "Jupyter Notebook", após selecione o nome do arquivo "Desafio_ml_eda"
+Acesse o terminal e execute "Jupyter Notebook", após selecione o nome do arquivo "Desafio_predict"
 
 Em seguida selecione a opção "Kernel" no cabeçalho do notebook, ao abrir o menu "Kernel" selecione a opção "Restart & Run All"
 
