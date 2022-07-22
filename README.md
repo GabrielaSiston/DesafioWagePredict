@@ -14,17 +14,19 @@ Algorithm Tuning
 Finalizing the Model
 
 ## Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina  um editor para trabalhar com o código como: [Jupyter Notebook](https://jupyter.org/)
+Antes de começar, você vai precisar ter instalado em sua máquina: 
+- [Python 3](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+
+Para instalar as dependềncias faça:
+``` pip3 install requirements.txt ```
+
 
 ### Rodando o arquivo ipynb 
 Acesse o terminal e execute "Jupyter Notebook", após selecione o nome do arquivo "Desafio_ml_eda"
 
 Em seguida selecione a opção "Kernel" no cabeçalho do notebook, ao abrir o menu "Kernel" selecione a opção "Restart & Run All"
 
-### Tecnologias utilizadas
-As seguintes ferramentas foram utilizadas na execução do projeto:
-- [Python 3](https://www.python.org/)
--[Jupyter Notebook](https://jupyter.org/)
 
 ### Autor 
 
